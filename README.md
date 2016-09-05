@@ -7,3 +7,8 @@ npm run testClient:watch
 babel-node src/server/server.js
 启动客户端命令:
 webpack-dev-server
+git提交命令:
+git status 查看状态
+git add -A 添加所有
+git commit -m "init project" 提交 并输入提交信息
+git push 提交到服务器
